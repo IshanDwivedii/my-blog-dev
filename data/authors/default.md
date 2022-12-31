@@ -1,7 +1,7 @@
 ---
 name: Ishan Dwivedi
 avatar: /static/images/avatar.png
-occupation: Product Engineer Inter @ OSlash
+occupation: Product Engineer Intern @ OSlash
 company: OSlash
 email: dwivediishan75@gmail.com
 twitter: https://twitter.com/Twitter
