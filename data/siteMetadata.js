@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Ishan Dwivedi',
   headerTitle: 'IshanForOSlashBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'A blog created with Next.js',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteRepo: 'https://github.com/IshanDwivedi75/my-blog',
