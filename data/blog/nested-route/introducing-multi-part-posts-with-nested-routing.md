@@ -1,5 +1,5 @@
 ---
-title: 'Nested Routing/
+title: 'Nested Routing'
 date: '2022-05-02'
 tags: [ 'next-js']
 draft: false
