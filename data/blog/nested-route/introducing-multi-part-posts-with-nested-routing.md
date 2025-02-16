@@ -1,14 +1,14 @@
 ---
 title: 'Nested Routing'
-date: '2022-05-02'
-tags: [ 'next-js']
+date: '2025-01-15'
+tags: ['next-js']
 draft: false
 summary: 'The blog template supports posts in nested sub-folders. This can be used to group posts of similar content e.g. a multi-part course. This post is itself an example of a nested route!'
 ---
 
 # Nested Routes
 
-The blog template supports posts in nested sub-folders. This helps in organisation and can be used to group posts of similar content e.g. a multi-part series. This post is itself an example of a nested route! It's located in the `/data/blog/nested-route` folder.
+Nested routes are a feature that allows you to create a hierarchy of routes in your application, which is useful for creating layouts that remain consistent across multiple pages or establishing relationships between related pages1. Instead of rendering a full page when navigating between URLs in a single-page application, only the parts dependent on the URL change, offering a smoother user experience3.. This helps in organisation and can be used to group posts of similar content e.g. a multi-part series. This post is itself an example of a nested route! It's located in the `/data/blog/nested-route` folder.
 
 ## How
 

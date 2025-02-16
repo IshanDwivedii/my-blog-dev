@@ -1,19 +1,23 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Splitwise',
+    description: `Designed to simplify the process of splitting expenses among friends, family, and roommates. It allows users to track shared bills, manage IOUs, and ensure that everyone pays their fair share, thus promoting transparency and fairness in financial interactions.`,
+    href: 'https://github.com/IshanDwivedii',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Parking Lot - PRO',
+    description: `Design of a scalable, efficient, and feature-rich parking lot management system.`,
+    href: '/https://github.com/IshanDwivedii',
+  },
+  {
+    title: 'Blog Website',
+    description: `Design of a scalable, efficient, and feature-rich parking lot management system.`,
+    href: '/https://github.com/IshanDwivedii',
+  },
+  {
+    title: 'SMTP Pool',
+    description: `Design of a scalable, efficient, and feature-rich parking lot management system.`,
+    href: '/https://github.com/IshanDwivedii',
   },
 ]
 

@@ -1,9 +1,9 @@
 ---
-title: Sample .md file
-date: '2016-03-08'
-tags: ['next-js']
+title: Story Driven DSA
+date: '2021-03-08'
+tags: ['DSA']
 draft: false
-summary: Example 
+summary: Example
 ---
 
 A sample post with markdown.
@@ -15,4 +15,3 @@ Server-side Rendering is the pre-rendering method that generates the HTML on eac
 ## Static Generation
 
 Static Generation is the pre-rendering method that generates the HTML at build time. The pre-rendered HTML is then reused on each request.
-

@@ -1,12 +1,16 @@
 ---
-title: Blog
+title: SMTP Pool
 date: '2022-12-21'
-tags: ['next js']
+tags: ['SMTP']
 draft: false
-summary: 'Summary for blog 1'
+summary: 'Emailing'
 ---
 
 # Introduction
 
+SMTP, or Simple Mail Transfer Protocol, is a crucial TCP/IP protocol that facilitates the sending and receiving of emails across networks like the internet34. When you send an email, your email client connects to an SMTP server to relay the message3. The server then figures out where to send it next, either another SMTP server or the recipient's4. Once it gets to the right server, a different protocol like POP or IMAP delivers it to the inbox4.
 
- 
+To optimize this process, especially when dealing with high email volumes, developers often implement SMTP connection pooling.
+
+What is SMTP Connection Pooling?
+SMTP connection pooling is a technique where multiple SMTP connections are kept open and reused for sending multiple emails5. Instead of establishing a new connection for each email, the application retrieves an existing connection from the pool, sends the email, and returns the connection to the pool for reuse5. This approach reduces the overhead associated with repeatedly establishing and closing connections, improving performance and efficiency.
